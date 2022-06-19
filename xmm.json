@@ -11,7 +11,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"http//lifenglin.usa3v.work/xm.jar",
+"spider":"http://lifenglin.usa3v.work/xm.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL20vVFYvbGl2ZS50eHQ="
@@ -36,7 +36,7 @@
 {"key":"csp_Opera","name":"🏮戏曲","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"أوبرا"},
 {"key":"csp_FakeWindow","name":"🪟假窗·氛围·白噪声","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"نافذة كاذبة"},
 {"key":"csp_Live","name":"📺设置直播为首页","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"تعيين البث المباشر كصفحة رئيسية"},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"علي"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"علي"},
 
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lianqwe.github.io/a/MeowXB/斗鱼.json"},
 
