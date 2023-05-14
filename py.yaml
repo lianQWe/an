@@ -6,7 +6,6 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 距离下次重置剩余：23 天, server: gzdx.jcnode.top, port: 22000, type: ss, cipher: aes-256-gcm, password: 4538d3ba-2c97-4f31-9e05-440748bfda39}
-  - {name: JCBB永久跳转地址 jcbb.cc, server: gzdx.jcnode.top, port: 22000, type: ss, cipher: aes-256-gcm, password: 4538d3ba-2c97-4f31-9e05-440748bfda39}
   - {name: 🇰🇷 JCBB_ 韩国 01【vip1】, server: gzyd.jcnode.top, port: 22000, type: ss, cipher: aes-256-gcm, password: 4538d3ba-2c97-4f31-9e05-440748bfda39}
   - {name: 🇰🇷 JCBB_ 韩国 02【vip1】, server: gzdx.jcnode.top, port: 22000, type: ss, cipher: aes-256-gcm, password: 4538d3ba-2c97-4f31-9e05-440748bfda39}
   - {name: 🇭🇰 JCBB_香港01【vip1】, server: gzyd.jcnode.top, port: 20000, type: vmess, uuid: 4538d3ba-2c97-4f31-9e05-440748bfda39, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}}
