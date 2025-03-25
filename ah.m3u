@@ -43,18 +43,18 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000481
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000476
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000625
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽公共
-http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽经济生活
-http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000005
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽影视
-http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽农业·科教
-http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000013
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽综艺·体育
-http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000011
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000005
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽国际
-http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000015
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽农业·科教
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽影视
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽综艺·体育
+http://10.255.126.3:8006/AHBKLIVE/1111110000000000000000000000001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽公共
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",滁州新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",滁州公共
