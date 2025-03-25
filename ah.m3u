@@ -43,51 +43,63 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000481
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000476
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000625
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",滁州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽公共
+http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽经济生活
+http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽影视
+http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽农业·科教
+http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽综艺·体育
+http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽国际
+http://10.49.6.247:8112/AHBKLIVE/11111100000000000000000000000015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",滁州新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000081
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",滁州公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",滁州公共
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000083
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",滁州科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",滁州科教
 http://10.49.6.247:8112/AHBKLIVE/11111120210510000000000000000085
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",滁州科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",滁州科教
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000085
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亳州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",亳州综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000075
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亳州农村
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",亳州农村
 http://10.255.126.3:8006/AHBKLIVE/11111120210408000000000000000033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",蚌埠新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",蚌埠新闻
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000077
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宿州科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宿州科教
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000097
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",蚌埠生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",蚌埠生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000079
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宿州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宿州新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000099
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宿州经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宿州经济生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000095
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安庆新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安庆新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安庆经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安庆经济生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淮南新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",淮南新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000105
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淮南民生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",淮南民生
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000103
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淮北新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",淮北新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000119
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淮北经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",淮北经济生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000121
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",六安综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",六安综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000125
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",六安社会生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",六安社会生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",池州新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",池州新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000089
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",池州文教生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",池州文教生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000087
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黄山新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黄山新闻综合
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000117
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黄山文旅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黄山文旅
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000115
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",CCTV-兵器科技
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000053
@@ -99,7 +111,7 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000041
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000037
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV-风云足球
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000051
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-高尔夫·网球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CCTV-高尔夫·网球
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000049
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",CCTV-怀旧剧场
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000043
@@ -107,7 +119,7 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000043
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000055
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV-央视台球
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000047
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-央视文化精品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CCTV-央视文化精品
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000057
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000183
@@ -123,7 +135,7 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000463
 http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000251
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV-4
 http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000252
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",山东教育卫视
 http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000248
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000150
@@ -179,7 +191,7 @@ http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000244?m3u8=.m3u8
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000083?m3u8=.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000085?m3u8=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南电视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南电视剧
 http://swrh.ngtanyanfei.top:8081/dl/henan.php?id=hndsj
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",河南梨园
 http://swrh.ngtanyanfei.top:8081/dl/henan.php?id=hnly
@@ -209,11 +221,11 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000462?m3u8=.m3u8
 http://10.255.126.3:8006/AHBKLIVE/11111120210021000000000000000057?m3u8=.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚
 http://10.255.126.3:8006/AHBKLIVE/11111120210021000000000000000055?m3u8=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",时代兵器
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",时代兵器
 http://10.255.126.3:8006/AHBKLIVE/11111120210021000000000000000053?m3u8=.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",风云足球
 http://10.255.126.3:8006/AHBKLIVE/11111120210021000000000000000051?m3u8=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高尔夫台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",高尔夫台
 http://10.255.126.3:8006/AHBKLIVE/11111120210021000000000000000049?m3u8=.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球
 http://10.255.126.3:8006/AHBKLIVE/11111120210021000000000000000047?m3u8=.m3u8
@@ -233,7 +245,7 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000463?m3u8=.m3u8
 http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000251?m3u8=.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV-4
 http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000252?m3u8=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",山东教育
 http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000248?m3u8=.m3u8
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000183?m3u8=.m3u8
